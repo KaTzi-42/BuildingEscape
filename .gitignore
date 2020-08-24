@@ -1,0 +1,6 @@
+Binaries/*
+Content/StarterContent/
+Saved/*
+DerivedDataCache/*
+Intermediate/*
+.vs/*
